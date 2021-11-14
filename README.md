@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Catanix, software engineer from kz, Almaty, working on enterprise projects as web dev.   
+- 👀 I’m interested in web development, blogging, gaming, poetry, guitar and drawing.
+- 💞️ I’m looking to collaborate on opensource projects.
+- 📫 admin@catanix.dev / telegram: @catanix
